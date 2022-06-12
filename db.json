@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "id": 3,
+      "title": "Richest person in the world",
+      "detail": "Who is currently the richest person in the world?"
+    },
+    {
+      "id": 4,
+      "title": "Google CEO",
+      "detail": "Who is the CEO of Google"
+    },
+    {
+      "id": 5,
+      "title": "Next Full Moon",
+      "detail": "When the next full moon be?"
+    },
+    {
+      "id": 6,
+      "title": "Number of kidney to live",
+      "detail": "Can human still alife if there is only one kidney?"
+    },
+    {
+      "id": 7,
+      "title": "Number of guitar string",
+      "detail": "How many string actually a guitar has?"
+    },
+    {
+      "id": 8,
+      "title": "Gluten in rice",
+      "detail": "Does rice consist of gluten?"
+    },
+    {
+      "id": 9,
+      "title": "Indonesia's startup unicorn",
+      "detail": "How many startup unicorn in Indonesia?"
+    },
+    {
+      "id": 10,
+      "title": "Pluto planet",
+      "detail": "Does pluto still called as planet?"
+    },
+    {
+      "id": 11,
+      "title": "Martabak vs Apam Balek",
+      "detail": "What is the difference between martabak and apam balek?"
+    },
+    {
+      "id": 12,
+      "title": "Uninstall Internet Explorer",
+      "detail": "Can i just uninstall internet explorer since I don't neet it"
+    },
+    {
+      "title": "Tallest mountain in the world",
+      "detail": "What is the tallest mountain in the world?",
+      "id": 13
+    }
+  ],
+  "portofolio" : [
+    {
+      "id": 1,
+      "name": "Richard Sugianto Laiman",
+      "nick": "Erik",
+      "dob": "8 April 2004",
+      "major": "Computer Science",
+      "p_lang": "HTML CSS JS"
+    }   
+  ]
+}

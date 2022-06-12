@@ -1,0 +1,14 @@
+.btn {
+  border-radius: 8px;
+  border: none;
+  font-size: 1rem;
+  padding: 0.5rem 2rem;
+  cursor: pointer;
+  color: white;
+  &-primary {
+    background-color: darkcyan;
+  }
+  &-danger {
+    background-color: maroon;
+  }
+}

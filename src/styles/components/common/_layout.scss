@@ -1,0 +1,16 @@
+.layout {
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 5rem;
+    font-size: 1.2rem;
+    background-color: aliceblue;
+    &__nav {
+      display: flex;
+      gap: 1rem;
+    }
+  }
+  &__container {
+    padding: 2rem 5rem;
+  }
+}
